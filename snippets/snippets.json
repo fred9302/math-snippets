@@ -956,6 +956,11 @@
 		"prefix": "inf",
 		"body": ["\\inf "]
 	},
+	"LaTeX (KaTeX) - infin": {
+		"scope": "",
+		"prefix": "inf",
+		"body": ["\\infin "]
+	},
 	"LaTeX - sup": {
 		"scope": "",
 		"prefix": "sup",
