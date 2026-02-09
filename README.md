@@ -1,3 +1,9 @@
+# Fork of original repo
+
+This is a fork of the original extension repository for my own personal use and I do not intend to publish the extension.
+
+---
+
 # Math snippets for LaTeX and Markdown
 
 A set of math snippets for Visual Studio Code.
