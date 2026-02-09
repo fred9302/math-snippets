@@ -4,13 +4,14 @@ This is a fork of the original extension repository for my own personal use and 
 
 ---
 
-# Math snippets for LaTeX and Markdown
+## Math snippets for LaTeX and Markdown
 
 A set of math snippets for Visual Studio Code.
 
-# Available snippets
+## Available snippets
 
 Provides autocomplete for most LaTeX math symbols including:
+
 - Common constructs (`\frac`, `\sqrt`, ...)
 - Greek letters (`\alpha`, `\beta`, `\gamma`, ...)
 - Variable-sized operators (`\sum`, `\prod`, `\int`, ...)
@@ -22,7 +23,7 @@ Provides autocomplete for most LaTeX math symbols including:
 
 These snippets are accessible without the leading backslash character `\`.
 
-In addition to the standard LaTeX names, the following aliases and shortcuts are provided :
+In addition to the standard LaTeX names, the following aliases and shortcuts are provided:
 
 |      Alias      |      Resolves to       |                           Description                           |
 | --------------- | ---------------------- | --------------------------------------------------------------- |
@@ -38,14 +39,14 @@ In addition to the standard LaTeX names, the following aliases and shortcuts are
 | `bb`            | `\\mathbb{...}`        | Math BB font                                                    |
 | `bf`            | `\mathbf{...}`         | Math BF font                                                    |
 
-The full list of supported snippets can be found [here](https://github.com/thomanq/math-snippets/blob/master/snippets/snippets.json).
+The full list of supported snippets can be found [here](https://github.com/fred9302/math-snippets/blob/master/snippets/snippets.json).
 
-# How to write math with Markdown
+## How to write math with Markdown
 
 There are several VS Code extensions available from the Marketplace, for example [Markdown+Math](https://marketplace.visualstudio.com/items?itemName=goessner.mdmath). It is thus possible to use the built-in Markdown preview pane within VS Code.
 
 Another way is to use [KaTeX](https://katex.org/) directly by placing the [starter template code](https://github.com/KaTeX/KaTeX#starter-template) on top of your Markdown file.
 
-# Licence
+## License
 
 MIT
