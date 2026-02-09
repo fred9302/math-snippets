@@ -2,7 +2,7 @@
 	"LaTeX - inline math (dollars)": {
 		"scope": "",	
 		"prefix": "ii",	
-		"body": ["$$1$ $0"],
+		"body": ["$$1$$0"],
 		"description": "Create inline math formula"
 	},
 
@@ -16,14 +16,14 @@
 	"LaTeX - inline math with display style (dollars)": {
 		"scope": "",	
 		"prefix": "id",	
-		"body": ["$\\displaystyle $1$ $0"],
+		"body": ["$\\displaystyle $1$$0"],
 		"description": "Create inline math formula with display style"
 	},
 
 	"LaTeX - inline math (brackets)": {
 		"scope": "", 
 		"prefix": "II", 
-		"body": ["\\($1\\) $0"],
+		"body": ["\\($1\\)$0"],
 		"description": "Create inline math formula"
 	},
 	"LaTeX - display math (brackets)": {
